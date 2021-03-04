@@ -15,3 +15,7 @@ def decodeMorse(morse_code):
             spaceCounter = 0
             translation = translation + str(MORSE_CODE[x])
     return translation.strip()
+
+# —————————————————————————————
+# CSS practice
+# Exercises for Days 1 and 2 of CSS Battle
